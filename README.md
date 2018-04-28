@@ -8,21 +8,21 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
 # Promo Items *(Missing 1 Captain)*
-- [ ] GenCon Khan
+- [x] GenCon Khan
 
 # Starter sets *(complete)*
 <details><summary>Click here to Expand</summary>
 
 ## Starter Set *(complete)*
-- [x] IKS Maht-H'a – Vor'cha-class
-- [x] IRW Khazara – D'deridex-class
-- [x] USS Enterprise-D – Galaxy-class
+- [ ] IKS Maht-H'a – Vor'cha-class
+- [ ] IRW Khazara – D'deridex-class
+- [ ] USS Enterprise-D – Galaxy-class
 
 ## Federation vs Klingons Starter Set *(complete)*
-- [x] IKS Vorn – Klingon Bird-of-Prey
-- [x] K'mpec's Attack Cruiser – Vor'cha-class
-- [x] USS Enterprise-D – Galaxy-class
-- [x] USS Sutherland – Nebula-class
+- [ ] IKS Vorn – Klingon Bird-of-Prey
+- [ ] K'mpec's Attack Cruiser – Vor'cha-class
+- [ ] USS Enterprise-D – Galaxy-class
+- [ ] USS Sutherland – Nebula-class
 
 </details>
 
